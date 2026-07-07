@@ -4,7 +4,7 @@ import requests
 import datetime
 import asyncio
 
-FIREBASE_URL = "https://cat-feeder-app-67e48-default-rtdb.europe-west1.firebasedatabase.app/cat_feeder.json"
+FIREBASE_URL = "https://YOUR_FIREBASE_DATABASE_URL/cat_feeder.json"
 
 SLOTS = ["6:00", "12:00", "18:00", "22:00"]
 
