@@ -1,4 +1,4 @@
-* A cross-platform app to track and sync pet feeding schedules in real time.
+A cross-platform app to track and sync pet feeding schedules in real time.
 
 Features
 
